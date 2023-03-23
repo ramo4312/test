@@ -69,7 +69,7 @@ const LoginPage = () => {
 						className='flex flex-col gap-y-7 mx-auto w-[35.6rem]'
 					>
 						<div className='flex flex-col gap-y-3'>
-							<label htmlFor='' className='text-little-text text-lg'>
+							<label htmlFor='' className='text-little-text text-start text-lg'>
 								Email
 							</label>
 							<input
